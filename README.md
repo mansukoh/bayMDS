@@ -1,0 +1,2 @@
+# bayMDS
+Bayesian multidimensional scaling
